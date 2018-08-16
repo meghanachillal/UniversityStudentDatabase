@@ -1,5 +1,5 @@
 # UniversityStudentDatabase
-A Responsive Application designed that keeps track of a student’s information such as names, A-number, and the Faculty 
+A Responsive Mobile Web Application designed that keeps track of a student’s information such as names, A-number, and the Faculty 
 they belong to, as well as the quiz scores that the student takes. All the data is stored in the browsers local storage.
 It includes 8 Pages:
 1. Student Login Page
